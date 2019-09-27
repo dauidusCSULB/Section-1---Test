@@ -3,9 +3,9 @@
 Plugin Name: Dauidus Admin Functions
 Plugin URI: https://dauid.us
 description: loads Yellow Pelican admin functions
-Author: Dave Winter
+Author: Dave Winter and Austin Gary
 Version: 0.1
-Author URI: https://dauid.us
+Author URI: https://dauid.us http://aparaxium.github.io
 */
 
 // allow Sections in custom post types
@@ -106,6 +106,7 @@ function exclude_from_wp_list_pages($exclude_array) {
     }
 }
 
+//Hello world
 
 // redirect admin dashboard page to custom content dashboard
 add_action('load-index.php', function(){
