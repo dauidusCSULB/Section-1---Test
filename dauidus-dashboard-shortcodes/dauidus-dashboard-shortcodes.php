@@ -2,10 +2,10 @@
 /**
  * YellowPelican admin dashboard shortcodes
  *
- * Plugin Name: YellowPelican dashboard shortcodes
- * Description: Custom for YellowPelican.  Dasboard shortcodes.
- * Author:            Dave Winter
- * Version:     1.1.2
+ * Plugin Name: YellowPelican dashboard shortcodes plugin
+ * Description: Custom for YellowPelican Studios.  Dasboard shortcodes.
+ * Author:            David Winter
+ * Version:     1.1.3
  * Domain Path: /languages
  *
  */
